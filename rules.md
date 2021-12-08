@@ -10,7 +10,7 @@ December 8th, 2021.
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
 2. If I code at work, that time won't count towards the challenge.
 3. I will push code to GitHub every day so that anyone can see my progress.
-4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
+4. I will update the [log.md](Log) with the day's progress and provide a link so that others can see my progress.
 5. I will start this marathon with taking [FreeCodeCamp’s Front End Curriculum](https://www.freecodecamp.com/), THEN I will work on real projects, facing real challenges!
 
 
