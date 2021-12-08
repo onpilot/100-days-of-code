@@ -4,7 +4,7 @@
 
 **Today's Progress**: Done bootstrap, jQuery, and Sass challenges on FreeCodeCamp.
 
-**Thoughts:** Bootstrap is awesome (when joined with FontAwesome, no pun). jQuery is great. Sass is cool, but the syntax... skull :skull:
+**Thoughts:** Bootstrap is awesome (when joined with FontAwesome, no pun). jQuery is great and Sass is cool, but the syntax... skull :skull:
 
 **Link to Challenges:** [FreeCodeCamp: Front End Development Libraries - Bootstrap](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/)
 
