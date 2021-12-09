@@ -8,6 +8,14 @@
 
 **Link to Challenges:** [FreeCodeCamp: Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 
+### Day 2: December 9, 2021
+
+**Today's Progress**: Learning about creating, composing and rendering React components on FreeCodeCamp.
+
+**Thoughts:** There's still a long journey to go. Tomorrow, the world! :earth_americas:
+
+**Link to Challenges:** [FreeCodeCamp: Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
