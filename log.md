@@ -16,6 +16,14 @@
 
 **Link to Challenges:** [FreeCodeCamp: Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 
+### Day 3: December 10, 2021
+
+**Today's Progress**: Learning about using and overriding default props, state of components, 'this' keyword binding, and lifecycle method in React.
+
+**Thoughts:** 'this' keyword in JavaScript is probably semantically too good it may cause confusion in the head. Just in the head, right? 
+
+**Link to Challenges:** [FreeCodeCamp: Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
