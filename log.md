@@ -24,6 +24,15 @@
 
 **Link to Challenges:** [FreeCodeCamp: Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 
+### Day 4: December 11, 2021
+
+**Today's Progress**: Learning about using inline styles, adding event listener, using if-else and ternary expression for conditional rendering in React.
+
+**Thoughts:** Already managed to figure out some basic functionality, but still struggled with React. However, perfection need time, right? And remember, patience is a virtue.
+
+**Link to Challenges:** [FreeCodeCamp: Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
