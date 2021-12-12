@@ -34,9 +34,9 @@
 
 ### Day 5: December 12, 2021
 
-**Today's Progress**: Complete the React challenges with learning ways of conditional rendering in React using props, state .map() and .filter().
+**Today's Progress**: Completed React challenges with learning ways of conditional rendering using props, state .map() and .filter().
 
-**Thoughts:** Really glad to complete the challenges. Will review again tomorrow. Can't wait to start learning Redux.
+**Thoughts:** Really glad to complete the challenges. Will review again tomorrow. Can't wait to start learning Redux!
 
 **Link to Challenges:** [FreeCodeCamp: Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 
