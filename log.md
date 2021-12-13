@@ -40,6 +40,14 @@
 
 **Link to Challenges:** [FreeCodeCamp: Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 
+### Day 6: December 13, 2021
+
+**Today's Progress**: Learn the fundamentals of Redux stores, actions, reducers and middleware.
+
+**Thoughts:** A bit tired here ...
+
+**Link to Challenges:** [FreeCodeCamp: Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
