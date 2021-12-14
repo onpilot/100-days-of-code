@@ -50,7 +50,7 @@
 
 **Today's Progress**: Learning how to connect React with Redux.
 
-**Thoughts:** Still need a way to catch up with React components hierarchy as the application grow complex. Need a plugin to help maybe?
+**Thoughts:** Still need a way to catch up with React components hierarchy as the application grows complex. Need a plugin to help maybe?
 
 
 **Link to Challenges:** [FreeCodeCamp: Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
