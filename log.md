@@ -60,7 +60,7 @@
 
 **Today's Progress**: Learning to setup local dev environment for React using CRA (create-react-application), NextJS, and Parcel 2.
 
-**Thoughts:** So far, I prefer NextJS over Parcel 2, mainly because the node modules size. But for now, I'll just stick with CRA and let's see what will be coming up.
+**Thoughts:** So far, I prefer NextJS over Parcel 2, mainly because the node modules size. But for now, I'll just stick with CRA and let's see what will coming up.
 
 ### Day 9: December 16, 2021
 
