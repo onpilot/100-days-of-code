@@ -68,6 +68,13 @@
 
 **Thoughts:** Everything is slowly getting better.
 
+### Day 10: December 17, 2021
+
+**Today's Progress**: Reviewing React fundamentals from FreeCodeCamp React Course Video on my local dev environment.
+
+**Thoughts:** John Smilga is very informative, and funny.
+
+**Link to Video:** [Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://www.youtube.com/watch?v=4UZrsTqkcW4)
 
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
