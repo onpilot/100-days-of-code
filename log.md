@@ -76,6 +76,32 @@
 
 **Link to Video:** [Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://www.youtube.com/watch?v=4UZrsTqkcW4)
 
+### Day 11: December 18, 2021
+
+**Today's Progress**: ~
+
+**Thoughts:** It's not a pause. It's a pause jump squats.
+
+### Day 12: December 19, 2021
+
+**Today's Progress**: Messing with my OpenCore Mac installation, so now I switch back to Windows for coding.
+
+**Thoughts:** Does Mac really more powerfull over Windows for web development? Idk, but couldn't agree more that Mac UI/UX is really delightful.
+
+### Day 13: December 20, 2021
+
+**Today's Progress**: Installing PowerShell 7. Adding [PSReadline](https://github.com/PowerShell/PSReadLine), [PSFzf](https://github.com/kelleyma49/PSFzf), and [oh-my-posh](https://ohmyposh.dev/) modules.
+
+**Thoughts:** Definitely pleased that finally I can experience a powerfull terminal in Windows machine.
+
+### Day 14: December 21, 2021
+
+**Today's Progress**: Continue React tutorial. Reviewing useState and useEffect.
+
+**Thoughts:** ...
+
+**Link to Video:** [Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://www.youtube.com/watch?v=4UZrsTqkcW4)
+
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
