@@ -102,6 +102,14 @@
 
 **Link to Video:** [Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://www.youtube.com/watch?v=4UZrsTqkcW4)
 
+### Day 14: December 21, 2021
+
+**Today's Progress**: Still reviewing useState hook on React.
+
+**Thoughts:** It's still a bit confusing when implementing useState on array, why should we use an arrow function to invoke it?
+
+**Link to Video:** [Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://www.youtube.com/watch?v=4UZrsTqkcW4)
+
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
