@@ -90,7 +90,7 @@
 
 ### Day 13: December 20, 2021
 
-**Today's Progress**: Installing PowerShell 7. Adding [PSReadline](https://github.com/PowerShell/PSReadLine), [PSFzf](https://github.com/kelleyma49/PSFzf), and [oh-my-posh](https://ohmyposh.dev/) modules.
+**Today's Progress**: Installing PowerShell 7. Adding [oh-my-posh](https://ohmyposh.dev/), [PSFzf](https://github.com/kelleyma49/PSFzf), and [Get-ChildItemColor](https://github.com/joonro/Get-ChildItemColor) modules.
 
 **Thoughts:** Definitely pleased that finally I can experience a powerfull terminal in Windows machine.
 
