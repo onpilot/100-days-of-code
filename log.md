@@ -102,7 +102,7 @@
 
 **Link to Video:** [Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://www.youtube.com/watch?v=4UZrsTqkcW4)
 
-### Day 14: December 21, 2021
+### Day 15: December 22, 2021
 
 **Today's Progress**: Still reviewing useState hook on React.
 
