@@ -106,31 +106,24 @@
 
 **Today's Progress**: Reviewing useState hook #1
 
-**Thoughts:** It's still a bit confusing when implementing useState on array, why should we use an arrow function to invoke it?
+**Thoughts:** It's still a bit confusing when implementing useState on array.
 
-**Link to Video:** [Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://www.youtube.com/watch?v=4UZrsTqkcW4)
+**:question::** Why should we use an arrow function to invoke it?
 
 ### Day 16: December 23, 2021
 
 **Today's Progress**: Reviewing useState hook #2
 
-**Thoughts:** React local state can be used either in ES6 Class syntax by using 'this' keyword and binding, or in Stateless Functional Component by using destructuring assignment: 2D array ([state, setState]) assigned to React.useState invoking our data.
+**:bulb::** React local state can be used either in ES6 Class syntax or in Stateless Functional Component. The former is done by using 'this' keyword and binding. The latter is done by using destructuring assignment: 2D array ([state, setState]) assigned to React.useState invoking our data.
 
 ### Day 17: December 24, 2021
 
-**Today's Progress**: Day 15 question answered.
-**:bulb::** To use an event handler that requires arguments, I should use a higher-order function.
+**Today's Progress**: Reviewing useState hook #3 
+
+**:bulb::** Day 15 question answered. To use an event handler that requires arguments, I should use a higher-order function.
+
 **Thoughts:** So, I decide to restart my basic knowledge of React following "The Road to Learn React" book by Robin Wieruch. It is said that there are performance implications of using arrow function in event handlers, but it should be wise to focus on learning React first.
 
-
-<!-- ### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
 
 
 ### Day 1: June 27, Monday
@@ -138,6 +131,8 @@
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+**Link(s) to work**: [Calculator App](http://www.example.com)
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
