@@ -104,7 +104,7 @@
 
 ### Day 15: December 22, 2021
 
-**Today's Progress**: Still reviewing useState hook on React.
+**Today's Progress**: Reviewing useState hook #1
 
 **Thoughts:** It's still a bit confusing when implementing useState on array, why should we use an arrow function to invoke it?
 
@@ -112,14 +112,14 @@
 
 ### Day 16: December 23, 2021
 
-**Today's Progress**: Still reviewing useState hook on React.
+**Today's Progress**: Reviewing useState hook #2
 
 **Thoughts:** React local state can be used either in ES6 Class syntax by using 'this' keyword and binding, or in Stateless Functional Component by using destructuring assignment: 2D array ([state, setState]) assigned to React.useState invoking our data.
 
 ### Day 17: December 24, 2021
 
-**Today's Progress**: Day 15 question answered. To use an event handler that requires arguments, I should use a higher-order function.
-
+**Today's Progress**: Day 15 question answered.
+**💡:** To use an event handler that requires arguments, I should use a higher-order function.
 **Thoughts:** So, I decide to restart my basic knowledge of React following "The Road to Learn React" book by Robin Wieruch. It is said that there are performance implications of using arrow function in event handlers, but it should be wise to focus on learning React first.
 
 
