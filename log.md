@@ -108,7 +108,7 @@
 
 **Thoughts:** It's still a bit confusing when implementing useState on array.
 
-**:question::** Why should we use an arrow function to invoke it?
+**:question::** Why should we use an arrow function in event handler to alter array state?
 
 ### Day 16: December 23, 2021
 
