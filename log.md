@@ -125,7 +125,7 @@
 **Thoughts:** So, I decide to restart my basic knowledge of React following "The Road to Learn React" book by Robin Wieruch. It is said that there are performance implications of using arrow function in event handlers, but it should be wise to focus on learning React first.
 
 
-<--
+<!--
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
