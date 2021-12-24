@@ -110,6 +110,18 @@
 
 **Link to Video:** [Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://www.youtube.com/watch?v=4UZrsTqkcW4)
 
+### Day 16: December 23, 2021
+
+**Today's Progress**: Still reviewing useState hook on React.
+
+**Thoughts:** React local state can be used either in ES6 Class syntax by using 'this' keyword and binding, or in Stateless Functional Component by using destructuring assignment: 2D array ([state, setState]) assigned to React.useState invoking our data.
+
+### Day 17: December 24, 2021
+
+**Today's Progress**: Day 15 question answered. To use an event handler that requires arguments, I should use a higher-order function.
+
+**Thoughts:** So, I decide to restart my basic knowledge of React following "The Road to Learn React" book by Robin Wieruch. It is said that there are performance implications of using arrow function in event handlers, but it should be wise to focus on learning React first.
+
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
