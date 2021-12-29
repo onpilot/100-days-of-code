@@ -122,7 +122,7 @@
 
 **:bulb::** Day 15 question answered. To use an event handler that requires arguments, I should use a higher-order function.
 
-**Thoughts:** So, I decide to restart my basic knowledge of React following "The Road to Learn React" book by Robin Wieruch. It is said that there are performance implications of using arrow function in event handlers, but it should be wise to focus on learning React first.
+**Thoughts:** So, I decide to restart my basic knowledge of React following "The Road to Learn React" book by Robin Wieruch. It is said that _there are performance implications of using arrow function in event handlers_, but it should be wise to focus on learning React first.
 
 ### Day 18: December 29, 2021
 
