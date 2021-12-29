@@ -124,6 +124,14 @@
 
 **Thoughts:** So, I decide to restart my basic knowledge of React following "The Road to Learn React" book by Robin Wieruch. It is said that there are performance implications of using arrow function in event handlers, but it should be wise to focus on learning React first.
 
+### Day 18: December 29, 2021
+
+**Today's Progress**: Learning about useEffect from the FreeCodeCamp tutorial video on YT.
+
+**Thoughts:** I'm stuck on "Getting Real with an API" section in the "The Road to Learn React" book, but I need to learn about fetching data in React, so I move back and continue my latest progress on FCC's React tutorial video. And today, I learned about how to use useEffect to change document title html element, add event listener (and how to clean it up) as well as fetching a json data from an API, and how to add second parameter (dependency list).
+
+**Link to Video:** [Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://www.youtube.com/watch?v=4UZrsTqkcW4)
+
 
 <!--
 ### Day 1: June 27, Monday
