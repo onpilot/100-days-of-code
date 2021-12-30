@@ -136,7 +136,7 @@
 
 **Today's Progress**: Using the lessons I've learned up till now, I'll try to build my first front end development libraries projects @freeCodeCamp, random quote machine.
 
-**Thoughts:** Guess I'll start with the logic first, then the UI after it. Hope it will end up well :green_heart:
+**Thoughts:** Guess I'll start with the logic first, then the UI after. Hope it will end up well :green_heart:
 
 
 <!--
