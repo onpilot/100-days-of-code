@@ -3,7 +3,7 @@
 ## Contents
 
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Log - :green_heart: click here to see my progress :green_heart:](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
