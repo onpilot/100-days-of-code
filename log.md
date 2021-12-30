@@ -132,6 +132,12 @@
 
 **Link to Video:** [Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://www.youtube.com/watch?v=4UZrsTqkcW4)
 
+### Day 19: December 30, 2021
+
+**Today's Progress**: Using the lessons I've learned up till now, I'll try to build my first front end development libraries projects @freeCodeCamp, random quote machine.
+
+**Thoughts:** Guess I'll start with the logic first, then the UI after it. Hope it will end up well :green_heart:
+
 
 <!--
 ### Day 1: June 27, Monday
