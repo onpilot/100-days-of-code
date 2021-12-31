@@ -138,6 +138,12 @@
 
 **Thoughts:** Guess I'll start with the logic first, then the UI after. Hope it will end up well :green_heart:
 
+### Day 20: December 31, 2021
+
+**Today's Progress**: Done building the logic of my random quote machine app.
+
+**Thoughts:** Let's move forward with styling tomorrow. Oh, I almost forget today is the last day of 2021. I'm truly grateful for what I've learnt so far. Thank you to everyone that help and support me through this rough year. Happy new year.
+
 
 <!--
 ### Day 1: June 27, Monday
