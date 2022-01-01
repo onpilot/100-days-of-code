@@ -146,7 +146,7 @@
 
 ### Day 21: :star2: January 1, 2022
 
-**Today's Progress**: Trying to use style my random quote machine app with Material UI.
+**Today's Progress**: Trying to implement some styling into my random quote machine app with Material UI.
 
 **Thoughts:**  Until I find a better solution, let's struggle with CSS again.
 
