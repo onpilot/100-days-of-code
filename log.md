@@ -20,7 +20,7 @@
 
 **Today's Progress**: Learning about using and overriding default props, state of components, 'this' keyword binding, and lifecycle method in React.
 
-**Thoughts:** 'this' keyword in JavaScript is probably semantically too good it may cause confusion in the head. Just in the head, right? 
+**Thoughts:** 'this' keyword in JavaScript is probably semantically too good it may cause confusion in the head. Just in the head, right?
 
 **Link to Challenges:** [FreeCodeCamp: Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 
@@ -118,7 +118,7 @@
 
 ### Day 17: December 24, 2021
 
-**Today's Progress**: Reviewing useState hook #3 
+**Today's Progress**: Reviewing useState hook #3
 
 **:bulb::** Day 15 question answered. To use an event handler that requires arguments, I should use a higher-order function.
 
@@ -148,7 +148,13 @@
 
 **Today's Progress**: Trying to implement some styling into my random quote machine app with Material UI.
 
-**Thoughts:**  Until I find a better solution, let's struggle with CSS again.
+**Thoughts:** Until I find a better solution, let's struggle with CSS again.
+
+### Day 22: January 1, 2022
+
+**Today's Progress**: Exploring some CSS frameworks/library for React. Found Material UI and Tailwind CSS pretty amazing.
+
+**Thoughts:** Which is easier for maintenance for a small-to-medium-scale app in the long term? I found Tailwind CSS is very interesting, but requires time to learn.
 
 <!--
 ### Day 1: June 27, Monday
