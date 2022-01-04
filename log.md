@@ -150,11 +150,19 @@
 
 **Thoughts:** Until I find a better solution, let's struggle with CSS again.
 
-### Day 22: January 1, 2022
+### Day 22: January 2, 2022
 
 **Today's Progress**: Exploring some CSS frameworks/library for React. Found Material UI and Tailwind CSS pretty amazing.
 
 **Thoughts:** Which is easier for maintenance for a small-to-medium-scale app in the long term? I found Tailwind CSS is very interesting, but requires time to learn.
+
+### Day 23: January 3, 2022
+
+**Today's Progress**: Creating personal github page and react github pages for my portfolio showcases after completing freeCodeCamp Front-End Library course.
+
+### Day 24: January 4, 2022
+
+**Today's Progress**: Refreshing some CSS basic concepts on [Google web.dev](https://web.dev/learn/css)
 
 <!--
 ### Day 1: June 27, Monday
