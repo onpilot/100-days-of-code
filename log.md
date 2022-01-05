@@ -162,7 +162,11 @@
 
 ### Day 24: January 4, 2022
 
-**Today's Progress**: Refreshing some CSS basic concepts on [Google web.dev](https://web.dev/learn/css)
+**Today's Progress**: Refreshing some CSS basic concepts on [Google web.dev](https://web.dev/learn/css).
+
+### Day 25: January 5, 2022
+
+**Today's Progress**: Refreshing CSS basic concepts on new (beta) responsive web design course by [freeCodeCamp](https:www.freecodecamp.org).
 
 <!--
 ### Day 1: June 27, Monday
