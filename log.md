@@ -166,7 +166,7 @@
 
 ### Day 25: January 5, 2022
 
-**Today's Progress**: Refreshing CSS basic concepts on new (beta) responsive web design course by [freeCodeCamp](https:www.freecodecamp.org).
+**Today's Progress**: Refreshing CSS basic concepts on new (beta) responsive web design course by [freeCodeCamp](https://www.freecodecamp.org).
 
 <!--
 ### Day 1: June 27, Monday
