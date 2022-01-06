@@ -168,6 +168,13 @@
 
 **Today's Progress**: Refreshing CSS basic concepts on new (beta) responsive web design course by [freeCodeCamp](https://www.freecodecamp.org).
 
+### Day 26: January 6, 2022
+
+**Today's Progress**: Finish the first Front-end development library project on [freeCodeCamp](https://www.freecodecamp.org).
+
+**Link(s) to work**: [Random Quote Machine](https://onpilot.github.io/random-quote-machine/)
+
+
 <!--
 ### Day 1: June 27, Monday
 
