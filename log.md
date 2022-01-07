@@ -174,6 +174,11 @@
 
 **Link(s) to work**: [Random Quote Machine](https://onpilot.github.io/random-quote-machine/)
 
+### Day 27: January 7, 2022
+
+**Today's Progress**: Learn about Sass, Less, and CSS Modules basics.
+
+**Thoughts:** I used to simply go with CSS frameworks. But, I know today that I really should learn more about CSS.
 
 <!--
 ### Day 1: June 27, Monday
