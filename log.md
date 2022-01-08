@@ -180,6 +180,10 @@
 
 **Thoughts:** I used to simply go with CSS frameworks. But, I know today that I really should learn more about CSS.
 
+### Day 28: January 8, 2022
+
+**Today's Progress**: Reviewing Sass features: 1) Store data with Sass variables, 2) Nest CSS, 3) Create reusable CSS with mixins
+
 <!--
 ### Day 1: June 27, Monday
 
