@@ -184,6 +184,12 @@
 
 **Today's Progress**: Reviewing Sass features: 1) Store data with Sass variables, 2) Nest CSS, 3) Create reusable CSS with mixins
 
+### Day 29: January 9, 2022
+
+**Today's Progress**: Try implementing 3 common ways of styling React applications: 1) using Sass (or the traditional CSS), 2) CSS-in-JS (eg. styled-components, emotion-js), 3) CSS Modules (eg. vanilla-extract).
+
+**Link to article**: https://www.robinwieruch.de/create-react-app-with-sass-support/
+
 <!--
 ### Day 1: June 27, Monday
 
