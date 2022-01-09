@@ -13,7 +13,11 @@
 - https://github.com/TheAlgorithms/Javascript
 - https://github.com/ryanmcdermott/clean-code-javascript
 
-## JavaScript Module Bundlers & Frameworks
+## JavaScript Plugins, Module Bundlers, and Frameworks
+
+### Plugins
+
+- https://github.com/grid-js/gridjs
 
 ### Module Bundlers
 
@@ -43,6 +47,10 @@
 - https://github.com/react-boilerplate/react-boilerplate-cra-template
 - https://github.com/facebook/create-react-app
 - https://github.com/gitname/react-gh-pages
+
+### React Components
+
+- https://github.com/grid-js/gridjs-react
 
 ## Advanced CSS
 
