@@ -190,6 +190,18 @@
 
 **Link to article**: https://www.robinwieruch.de/create-react-app-with-sass-support/
 
+### Day 30: January 10, 2022
+
+**Today's Progress**: 1) Learning more about git command, gh cli and ssh. 2) Trying to use yarn for installing npm package that requires node addons.
+
+### Day 31: January 11, 2022
+
+**Today's Progress**: Try implementing CSS Modules. Learning more about CSS-in-JS.
+
+**Thoughts:** Use CSS-in-JS to 1) reduce the number of HTTP request, 2) use styling fragmentation.
+
+**Link to article**: [CSS Modules](https://www.robinwieruch.de/create-react-app-css-modules/), [React Styled Components](https://www.robinwieruch.de/react-styled-components/)
+
 <!--
 ### Day 1: June 27, Monday
 
