@@ -202,6 +202,10 @@
 
 **Link to article**: [CSS Modules](https://www.robinwieruch.de/create-react-app-css-modules/), [React Styled Components](https://www.robinwieruch.de/react-styled-components/)
 
+### Day 32: January 13, 2022
+
+**Today's Progress**: Learning to create a Messenger bot using [bottender](https://github.com/Yoctol/bottender) JavaScript framework API.
+
 <!--
 ### Day 1: June 27, Monday
 
