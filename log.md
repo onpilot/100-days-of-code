@@ -210,7 +210,7 @@
 
 **Today's Progress**: It's still a bit hard for me to have a good grasp in bottender API. I will stop for now. 🛑
 
-### Day 33: January 15, 2022
+### Day 34: January 15, 2022
 
 **Today's Progress**: Initiating Markdown Previewer app, my second project for freeCodeCamp Front End Development Libraries Projects + reviewing react fundamentals again.
 
