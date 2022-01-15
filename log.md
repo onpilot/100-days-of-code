@@ -4,7 +4,7 @@
 
 **Today's Progress**: Done bootstrap, jQuery, and Sass challenges on FreeCodeCamp.
 
-**Thoughts:** Bootstrap is awesome (when joined with FontAwesome, no pun). jQuery is great and Sass is cool, but the syntax... skull :skull:
+**Thoughts:** Bootstrap is awesome (when joined with FontAwesome, no pun). jQuery is great and Sass is cool, but the syntax... skull 💀
 
 **Link to Challenges:** [FreeCodeCamp: Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 
@@ -12,7 +12,7 @@
 
 **Today's Progress**: Learning about creating, composing and rendering React components on FreeCodeCamp.
 
-**Thoughts:** There's still a long journey to go. Tomorrow, the world! :earth_americas:
+**Thoughts:** There's still a long journey to go. Tomorrow, the world! 🌎️
 
 **Link to Challenges:** [FreeCodeCamp: Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 
@@ -108,19 +108,19 @@
 
 **Thoughts:** It's still a bit confusing when implementing useState on array.
 
-**:question::** Why should we use an arrow function in event handler to alter array state?
+**❓️:** Why should we use an arrow function in event handler to alter array state?
 
 ### Day 16: December 23, 2021
 
 **Today's Progress**: Reviewing useState hook #2
 
-**:bulb::** React local state can be used either in ES6 Class syntax or in Stateless Functional Component. The former is done by using 'this' keyword and binding. The latter is done by using destructuring assignment: 2D array ([state, setState]) assigned to React.useState invoking our data.
+**💡:** React local state can be used either in ES6 Class syntax or in Stateless Functional Component. The former is done by using 'this' keyword and binding. The latter is done by using destructuring assignment: 2D array ([state, setState]) assigned to React.useState invoking our data.
 
 ### Day 17: December 24, 2021
 
 **Today's Progress**: Reviewing useState hook #3
 
-**:bulb::** Day 15 question answered. To use an event handler that requires arguments, I should use a higher-order function.
+**💡:** Day 15 question answered. To use an event handler that requires arguments, I should use a higher-order function.
 
 **Thoughts:** So, I decide to restart my basic knowledge of React following "The Road to Learn React" book by Robin Wieruch. It is said that _there are performance implications of using arrow function in event handlers_, but it should be wise to focus on learning React first.
 
@@ -205,6 +205,16 @@
 ### Day 32: January 13, 2022
 
 **Today's Progress**: Learning to create a Messenger bot using [bottender](https://github.com/Yoctol/bottender) JavaScript framework API.
+
+### Day 33: January 14, 2022
+
+**Today's Progress**: It's still a bit hard for me to have a good grasp in bottender API. I will stop for now. 🛑
+
+### Day 33: January 15, 2022
+
+**Today's Progress**: Initiating Markdown Previewer app, my second project for freeCodeCamp Front End Development Libraries Projects + reviewing react fundamentals again.
+
+**Thoughts:** Still didn't really sure when to use state over props and vice versa.
 
 <!--
 ### Day 1: June 27, Monday
