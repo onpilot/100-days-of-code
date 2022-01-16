@@ -216,6 +216,10 @@
 
 **Thoughts:** Still didn't really sure when to use state over props and vice versa.
 
+### Day 35: January 16, 2022
+
+**Today's Progress**: Continue working with my Markdown Previewer app.
+
 <!--
 ### Day 1: June 27, Monday
 
