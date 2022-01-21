@@ -218,7 +218,35 @@
 
 ### Day 35: January 16, 2022
 
-**Today's Progress**: Continue working with my Markdown Previewer app.
+**Today's Progress**: Continue working with my Markdown Previewer app, using `marked` javascript external plugin.
+
+### Day 36: January 17, 2022
+
+**Today's Progress**: Learning about React DOM elements.
+
+**Thoughts:** React implements a browser-independent DOM system for cross-browser compatibility. There are a number of attributes that work differently between React and HTML such as: `checked`, `className`, `dangerouslySetInnerHTML`.
+
+**Link to article**: [React DOM Elements](https://reactjs.org/docs/dom-elements.html)
+
+### Day 37: January 18, 2022
+
+**Today's Progress**: 1) Learning about HTML DOM innerHTML property. The `innerHTML` is a property of the `Element` that allows you to get or set the HTML markup contained within the element. 2) install html5-boilerplate using create-html5-boilerplate script for code sandboxing with JavaScript;
+
+**❗️**: HTML5 specifies that a `<script>` tag inserted with innerHTML should not execute. When inserting user-supplied data, one should always consider using `Element.SetHTML()` _in order to sanitize the content before it is inserted_ or use a sanitize library, like `DOMPurify`, `sanitize-html` or `insane` to prevent potential XSS attacks
+
+**Link to article**: [Element.innerHTML](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML), [InnerHTML](https://www.javascripttutorial.net/javascript-dom/javascript-innerhtml/)
+
+### Day 38: January 19, 2022
+
+**Today's Progress**: 1) Continue working with my Markdown Previewer app. Using DOMPurify library to sanitize the input on `dangerouslySetInnerHTML` attribute.
+
+**Thoughts:** One alternative to the original `marked` plugin is to use `marked-react`, which internally uses `marked` to render the html elements as react components (avoiding the use of `dangerouslySetInnerHTML`) [as explained in this SO thread](https://stackoverflow.com/questions/34686523/using-marked-in-react/34688574). However, it is not clear how the internal process works, like if `marked-react` sanitize the content prior rendering.
+
+### Day 39: January 21, 2022
+
+**Today's Progress**: Finish my Markdown Previewer app setup to comply with FCC requirements.
+
+**Thoughts:** It's been fun. Little by little, I can enjoy building an app on top of React library.
 
 <!--
 ### Day 1: June 27, Monday
