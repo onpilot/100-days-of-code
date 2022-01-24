@@ -248,6 +248,10 @@
 
 **Thoughts:** It's been fun. Little by little, I can enjoy building an app on top of React library.
 
+### Day 40: January 24, 2022
+
+**Today's Progress**: Adding `github-markdown-css`, to replicate the GitHub Markdown style, into the project. Fix the layout.
+
 <!--
 ### Day 1: June 27, Monday
 
