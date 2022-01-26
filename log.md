@@ -252,9 +252,13 @@
 
 **Today's Progress**: Adding `github-markdown-css`, to replicate the GitHub Markdown style, into the project. Fix the layout.
 
-### Day 41: January 24, 2022
+### Day 41: January 25, 2022
 
 **Today's Progress**: Initializing lofi music machine project with `CRA` and `react-gh-pages`.
+
+### Day 42: January 26, 2022
+
+**Today's Progress**: Define initial layout. Try to make button play sample audio on click.
 
 <!--
 ### Day 1: June 27, Monday
