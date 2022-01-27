@@ -260,6 +260,10 @@
 
 **Today's Progress**: Define initial layout. Try to make button play sample audio on click.
 
+### Day 43: January 27, 2022
+
+**Today's Progress**: Refining the layout and html elements. Try to make some JSX elements reusable through react components.
+
 <!--
 ### Day 1: June 27, Monday
 
