@@ -172,7 +172,7 @@
 
 **Today's Progress**: Finish the first Front-end development library project on [freeCodeCamp](https://www.freecodecamp.org).
 
-**Link(s) to work**: [Random Quote Machine](https://onpilot.github.io/random-quote-machine/)
+**Link to work** 💚: [Random Quote Machine](https://onpilot.github.io/random-quote-machine/)
 
 ### Day 27: January 7, 2022
 
@@ -252,6 +252,8 @@
 
 **Today's Progress**: Adding `github-markdown-css`, to replicate the GitHub Markdown style, into the project. Fix the layout.
 
+**Link to work** 💚: [Markdown Previewer](https://onpilot.github.io/markdown-previewer/)
+
 ### Day 41: January 25, 2022
 
 **Today's Progress**: Initializing lofi music machine project with `CRA` and `react-gh-pages`.
@@ -274,8 +276,6 @@
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
