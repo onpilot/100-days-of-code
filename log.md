@@ -264,6 +264,10 @@
 
 **Today's Progress**: Refining the layout and html elements. Try to make some JSX elements reusable through react components.
 
+### Day 44: January 28, 2022
+
+**Today's Progress**: Update sample audio for testing. Adding additional elements (power and bank buttons; functionality not yet added).
+
 <!--
 ### Day 1: June 27, Monday
 
