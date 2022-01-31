@@ -270,6 +270,16 @@
 
 **Today's Progress**: Update sample audio for testing. Adding additional elements (power and bank buttons; functionality not yet added).
 
+### Day 45: January 29, 2022
+
+**Today's Progress**: Adding local audio files. Learn how to dynamically import files using webpack.
+
+### Day 45-46: January 30-31, 2022
+
+**Today's Progress**: Final touch and major revamp by adding some more hooks and css styling to my lofi music machine app. Completing the third freeCodeCamp Front end Development Libraries project!
+
+**Link to work** 💚: [Lofi Music Machine](https://onpilot.github.io/lofi-music-machine/)
+
 <!--
 ### Day 1: June 27, Monday
 
