@@ -280,6 +280,18 @@
 
 **Link to work** 💚: [Lofi Music Machine](https://onpilot.github.io/lofi-music-machine/)
 
+### Day 47: February 1, 2022
+
+**Today's Progress**: Initiating calculator app project.
+
+### Day 48: February 2, 2022
+
+**Today's Progress**: Learning Figma to create better design layout and scheme for an app along with its components. So by the time I start to code the app, I won't get derailed from one to other ideas over and over again.
+
+### Day 49: February 3, 2022
+
+**Today's Progress**: Defining initial layout for calculator app.
+
 <!--
 ### Day 1: June 27, Monday
 
