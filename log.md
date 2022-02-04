@@ -292,6 +292,10 @@
 
 **Today's Progress**: Defining initial layout for calculator app.
 
+### Day 50: February 4, 2022
+
+**Today's Progress**: Adding button clicks handling. Try to work on mathematical operations.
+
 <!--
 ### Day 1: June 27, Monday
 
