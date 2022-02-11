@@ -296,6 +296,36 @@
 
 **Today's Progress**: Adding button clicks handling. Try to work on mathematical operations.
 
+### Day 51: February 5, 2022
+
+**Today's Progress**: Still working on the mathematical operations functionality.
+
+### Day 52: February 6, 2022
+
+**Today's Progress**: Fix math operation handling.
+
+### Day 53: February 7, 2022
+
+**Today's Progress**: Fix decimal operation and positive/negative number handling.
+
+### Day 54: February 8, 2022
+
+**Today's Progress**: Add erase to left functionality.
+
+### Day 55: February 9, 2022
+
+**Today's Progress**: Refactor code, separating presentational components from the logic. Adding math percentage function. Adding `styled-components` package and refactor Button component based on that.
+
+### Day 56: February 10, 2022
+
+**Today's Progress**: Made fixations on mathematical operations and app styling.
+
+### Day 57: February 11, 2022
+
+**Today's Progress**: Add patch to pass all freeCodeCamp test script. Deploying app on github page.
+
+**Link to work** 💚: [JavaScript Calculator](https://onpilot.github.io/js-calculator)
+
 <!--
 ### Day 1: June 27, Monday
 
