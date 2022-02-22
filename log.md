@@ -326,6 +326,38 @@
 
 **Link to work** 💚: [JavaScript Calculator](https://onpilot.github.io/js-calculator)
 
+### Day 58: February 16, 2022
+
+**Today's Progress**: Initiating 25+5 Clock Project.
+
+### Day 59: February 17, 2022
+
+**Today's Progress**: Creating initial layout and adding some functionalities.
+
+### Day 60: February 18, 2022
+
+**Today's Progress**: Working with setInterval and clearInterval.
+
+### Day 61: February 19, 2022
+
+**Today's Progress**: Still working with the set and clear interval. Also make the app into smaller components for easier maintenance as well as easier styling with `styled-components` later.
+
+**💡:** When using `setInterval` in react, store it into the state so you can do `clearInterval` easily later on.
+
+### Day 62: February 20, 2022
+
+**Today's Progress**: Working with countdown timer functionality.
+
+### Day 63: February 21, 2022
+
+**Today's Progress**: Major refactoring of the logic code.
+
+### Day 64: February 22, 2022
+
+**Today's Progress**: Final revamp. Fixed the logic and styling. Everything is in a good shape now!
+
+**Link to work** 💚: [JS Pomodoro](https://onpilot.github.io/js-pomodoro)
+
 <!--
 ### Day 1: June 27, Monday
 
