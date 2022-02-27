@@ -358,6 +358,10 @@
 
 **Link to work** 💚: [JS Pomodoro](https://onpilot.github.io/js-pomodoro)
 
+### Day 65: February 27, 2022
+
+**Today's Progress**: Learning how to setup a project using Next.js: 1. Create a new page, 2. Using `Link` component for page navigation, 3. Learn about built-in support for code splitting and prefetching.
+
 <!--
 ### Day 1: June 27, Monday
 
