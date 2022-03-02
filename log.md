@@ -362,6 +362,14 @@
 
 **Today's Progress**: Learning how to setup a project using Next.js: 1. Create a new page, 2. Using `Link` component for page navigation, 3. Learn about built-in support for code splitting and prefetching.
 
+### Day 66: February 1, 2022
+
+**Today's Progress**: Learn how to add assets and CSS in Next.js project.
+
+### Day 67: March 2, 2022
+
+**Today's Progress**: Reading about Cross-Origin Resource Sharing (CORS) and learning how to implement it in frontend side (when fetching data over private external APIs).
+
 <!--
 ### Day 1: June 27, Monday
 
