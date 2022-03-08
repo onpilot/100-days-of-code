@@ -370,6 +370,14 @@
 
 **Today's Progress**: Reading about Cross-Origin Resource Sharing (CORS) and learning how to implement it in frontend side (when fetching data over private external APIs).
 
+### Day 68: March 7, 2022
+
+**Today's Progress**: Learning about Basic Express.js to handle routing: 1) How to serve html file and static assets, 2) how to create a simple API that responds with JSON.
+
+### Day 69: March 8, 2022
+
+**Today's Progress**: Learning how to use and chain middleware in Express.js.
+
 <!--
 ### Day 1: June 27, Monday
 
