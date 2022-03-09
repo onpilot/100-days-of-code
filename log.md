@@ -378,6 +378,10 @@
 
 **Today's Progress**: Learning how to use and chain middleware in Express.js.
 
+### Day 70: March 9, 2022
+
+**Today's Progress**: Learning how to get input from the client/user using: 1) Route parameter, and 2) Query parameter. I've seen the query parameter implementation in many websites. If you've seen some URLs containing text like `?first=firstname&last=lastname`, it's a query parameter. The ampersand (&) is separating each `field=value` couple. However, using the route parameter to get an input is relatively new to my knowledge.
+
 <!--
 ### Day 1: June 27, Monday
 
