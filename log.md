@@ -394,6 +394,10 @@
 
 **Today's Progress**: Learning about types and some basics in TypeScript. Having some fun with literal types, type aliases, interfaces, and generics.
 
+### Day 74: May 24, 2022
+
+**Today's Progress**: Reviewing material-ui react tutorial and Callbacks-Promises-Async/Await concept.
+
 <!--
 ### Day 1: June 27, Monday
 
