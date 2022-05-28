@@ -398,6 +398,24 @@
 
 **Today's Progress**: Reviewing material-ui react tutorial and Callbacks-Promises-Async/Await concept.
 
+### Day 75: May 25, 2022
+
+**Today's Progress**: Reviewing: 1) useState and useEffect, 2) short circuit evaluation and ternary operation practice in react.
+
+### Day 76: May 26, 2022
+
+**Today's Progress**: Code dictionary app with React.js, material-ui and [free dictionary api](https://dictionaryapi.dev/).
+
+### Day 77: May 27, 2022
+
+**Today's Progress**: Working with data fetching and displaying fetched data in my dictionary app.
+
+### Day 78: May 28, 2022
+
+**Today's Progress**: Finished my dictionary app.
+
+**Link to work** 💚: [Source code](https://github.com/onpilot/react-dictionary-mui), [Deployed app](https://onpilot.github.io/react-dictionary-mui/)
+
 <!--
 ### Day 1: June 27, Monday
 
