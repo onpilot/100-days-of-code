@@ -416,6 +416,10 @@
 
 **Link to work** 💚: [Source code](https://github.com/onpilot/react-dictionary-mui), [Deployed app](https://onpilot.github.io/react-dictionary-mui/)
 
+### Day 79: Jun 6, 2022
+
+**Today's Progress**: 1) Practicing javascript unit testing with Jest. 2) Learn GraphQL basics.
+
 <!--
 ### Day 1: June 27, Monday
 
