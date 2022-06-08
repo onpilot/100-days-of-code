@@ -420,6 +420,16 @@
 
 **Today's Progress**: 1) Practicing javascript unit testing with Jest. 2) Learn GraphQL basics.
 
+### Day 80: Jun 7, 2022
+
+**Today's Progress**: Learn to setup apollo client in react for the frontend.
+
+### Day 81: Jun 8, 2022
+
+**Today's Progress**: Learn to setup and generate (predefined) prisma client with SQLite for the backend.
+
+**❗️**: Prisma has two API layers: 1) database layer which offers CRUD operations, 2) application layer for business logic and common workflows (like authentication).
+
 <!--
 ### Day 1: June 27, Monday
 
