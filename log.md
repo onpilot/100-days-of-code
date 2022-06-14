@@ -428,7 +428,17 @@
 
 **Today's Progress**: Learn to setup and generate (predefined) prisma client with SQLite for the backend.
 
-**❗️**: Prisma has two API layers: 1) database layer which offers CRUD operations, 2) application layer for business logic and common workflows (like authentication).
+**❗️**: Prisma has two GraphQL API layers in a backend architecture: 1) database layer which offers CRUD operations, 2) application layer for business logic and common workflows (like authentication).
+
+### Day 82: Jun 10, 2022
+
+**Today's Progress**: Learn using useQuery and useMutation hook for fetching and altering GraphQL data with Apollo Client.
+
+### Day 83-85: Jun 12-14, 2022
+
+**Today's Progress**: Create my first homepage using TypeScript!
+
+**Link to work** 💚: [Source code](https://github.com/onpilot/onpilot.github.io), [Deployed app](https://onpilot.github.io/)
 
 <!--
 ### Day 1: June 27, Monday
