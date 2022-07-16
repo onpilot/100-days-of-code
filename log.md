@@ -445,3 +445,9 @@
 **Today's Progress**: Learn Svelte for the first time.
 
 **Thoughts:** I've never been learning any frontend framework/library as quite intensive as I learn React. So, it's a bit challenging in my first try.
+
+### Day 87: Jul 16, 2022
+
+**Today's Progress**: Learn about Reactivity and Props concepts in Svelte.
+
+**Thoughts:** I still feel a bit weird to use `$:` for reactive value and `export` to pass props.
